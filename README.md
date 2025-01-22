@@ -6,7 +6,7 @@ This project contains the following file(s):
 - **index.html** - This file contains the entire structure of the website.
   
 ## Preview
-Here's the [preview](https://yvesmanalo.github.io/single-page-cv/) of how the website looks like.
+Here's the [preview](https://yvesmanalo.github.io/basic-html-website/) of how the website looks like.
 
 ## Project Details:
 This project was built based on the [project details](https://roadmap.sh/projects/basic-html-website) provided by [roadmap.sh](https://roadmap.sh/).
